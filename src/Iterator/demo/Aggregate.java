@@ -1,7 +1,7 @@
 package Iterator.demo;
 
 /**
- * Agregate
+ * Aggregate
  */
 public interface Aggregate {
     public abstract Iterator iterator();
