@@ -1,4 +1,4 @@
-package Adapter.src;
+package Adapter.demo1;
 
 /**
  * Banner
