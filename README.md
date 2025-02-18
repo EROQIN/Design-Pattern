@@ -3,7 +3,7 @@
 
 
 ## 目录
-- [Interator模式](src/Interator/README.md)
+- [Interator模式](src/I terator/README.md)
 - [Adapter模式](src/Adapter/README.md)
 
 
