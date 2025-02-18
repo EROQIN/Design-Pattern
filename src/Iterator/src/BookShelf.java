@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * BookShelf
  */
-public class BookShelf implements Agregate {
+public class BookShelf implements Aggregate {
 
     private ArrayList<Book> books;
 

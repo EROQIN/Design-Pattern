@@ -3,6 +3,6 @@ package Iterator.src;
 /**
  * Agregate
  */
-public interface Agregate {
+public interface Aggregate {
     public abstract Iterator iterator();
 }
