@@ -8,5 +8,6 @@
 - [Adapter模式](src/Adapter/README.md)
 ### 第二部分 交给子类
 - [Template模式](src/TemplateMethod/README.md)
+- [FactoryMethod模式](src/FactoryMethod/README.md)
 
 **未完待续**
