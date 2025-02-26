@@ -9,5 +9,7 @@
 ### 第二部分 交给子类
 - [Template模式](src/TemplateMethod/README.md)
 - [FactoryMethod模式](src/FactoryMethod/README.md)
+### 第三部分 生成实例
+- [Singleton模式](src/Singleton/README.md)
 
 **未完待续**
