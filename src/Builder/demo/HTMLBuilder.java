@@ -2,8 +2,6 @@ package Builder.demo;
 
 import java.io.FileWriter;
 import java.io.PrintWriter;
-import java.io.StringWriter;
-import java.io.Writer;
 
 public class HTMLBuilder extends Builder {
 
