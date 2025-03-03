@@ -12,5 +12,6 @@
 ### 第三部分 生成实例
 - [Singleton模式](src/Singleton/README.md)
 - [Prototype模式](src/Prototype/README.md)
+- [Builder模式](src/Builder/README.md)
 
 **未完待续**
