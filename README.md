@@ -13,5 +13,6 @@
 - [Singleton模式](src/Singleton/README.md)
 - [Prototype模式](src/Prototype/README.md)
 - [Builder模式](src/Builder/README.md)
+- [AbstractFactory模式](src/AbstractFactory/README.md)
 
 **未完待续**
